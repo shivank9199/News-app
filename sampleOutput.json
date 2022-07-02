@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard",
+            "title": "Covid-19 vaccinations begin for US children under 5 - CNN",
+            "description": "Dr. Sarah Schaffer DeRoo described in one word how she felt after getting her 7-month-old son vaccinated against Covid-19: thrilled.",
+            "url": "https://www.cnn.com/2022/06/21/health/covid-vaccines-under-5-begin/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220621152826-06-young-child-covid-shots.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-06-23T04:19:00Z",
+            "content": "Dr. Sarah Schaffer DeRoo described in one word how she felt after getting her 7-month-old son vaccinated against Covid-19: thrilled.\r\nHer active baby boy sat in her lap at a vaccine clinic hosted by … [+7977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Livia Albeck-Ripka, Jason M. Bailey",
+            "title": "6 People Killed in Helicopter Crash in West Virginia Mountains - The New York Times",
+            "description": "The helicopter that crashed in Logan County was used during the Vietnam War and was being flown this week by enthusiasts.",
+            "url": "https://www.nytimes.com/2022/06/22/us/west-virginia-helicopter-crash-logan.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/us/22xp-wwva-helicopter-crash/22xp-wwva-helicopter-crash-facebookJumbo.jpg",
+            "publishedAt": "2022-06-23T03:48:01Z",
+            "content": "The N98F helicopter is owned by Marpat Aviation, which was holding an annual reunion this week for Huey helicopters, a nickname for the aircraft. Its website said people could make a reservation to f… [+835 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "Elon Musk: Tesla's Austin, Berlin car plants \"losing billions of dollars\" - Axios",
+            "description": "The Austin factory is \"losing insane money\" as it faces battery challenges, he said.",
+            "url": "https://www.axios.com/2022/06/23/elon-musk-new-tesla-factories-losing-billions",
+            "urlToImage": "https://images.axios.com/V7c6z3oln_pBWDsXYaGJcBLnExk=/0x199:4087x2498/1366x768/2022/06/23/1655947735031.jpg",
+            "publishedAt": "2022-06-23T03:36:52Z",
+            "content": "Tesla's new plants in Texas and Germany are \"losing billions of dollars\" as the electric car maker struggles with production due to supply chain disruptions and battery shortages, Elon Musk said in a… [+1264 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jennifer Peltz",
+            "title": "Sound off! Trumpet is 1st bloodhound to win Westminster show - The Associated Press",
+            "description": "TARRYTOWN, N.Y. (AP) — Now this hound has something to toot his horn about. A bloodhound named Trumpet won the Westminster Kennel Club Dog Show on Wednesday night, marking the first time the breed has ever snared U.S.",
+            "url": "https://apnews.com/1b44634750b6fa1105a4918808180023",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d235d1926f7144f4b1c17670d039a61a/2511.jpeg",
+            "publishedAt": "2022-06-23T03:16:57Z",
+            "content": "TARRYTOWN, N.Y. (AP) Now this hound has something to toot his horn about.\r\nA bloodhound named Trumpet won the Westminster Kennel Club Dog Show on Wednesday night, marking the first time the breed has… [+3722 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Fenit Nirappil, Lena H. Sun, Dan Diamond",
+            "title": "U.S. to expand monkeypox testing at commercial labs as outbreak grows - The Washington Post",
+            "description": "The Centers for Disease Control and Prevention started shipping test kits to five commercial laboratory companies this week.",
+            "url": "https://www.washingtonpost.com/health/2022/06/22/monkeypox-testing-expands/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L73O7YHRPMI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-06-23T03:09:00Z",
+            "content": "Placeholder while article actions load\r\nThe Biden administration announced Wednesday it is authorizing commercial laboratories to conduct monkeypox tests in an attempt to dramatically expand testing … [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Maanvi Singh, Ramon Antonio Vargas",
+            "title": "Uvalde police chief placed on leave amid outrage over shooter inaction - The Guardian US",
+            "description": "Pete Arredondo is blamed<strong> </strong>for police waiting 77 mins before intervening as 19 children and two teachers were killed",
+            "url": "https://amp.theguardian.com/us-news/2022/jun/22/uvalde-police-chief-leave-shooter-inaction",
+            "urlToImage": null,
+            "publishedAt": "2022-06-23T02:56:00Z",
+            "content": "Texas school shootingPete Arredondo is blamedfor police waiting 77 mins before intervening as 19 children and two teachers were killed\r\nThe police chief for the Texas elementary school where a gunman… [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, CNN",
+            "title": "Tony Siragusa, Super Bowl winner turned fun-loving sideline reporter, dies at age 55 - CNN",
+            "description": "Tony Siragusa, a key part of the Baltimore Ravens' Super Bowl winning team in 2001, died unexpectedly Wednesday morning, according to a statement from the team.",
+            "url": "https://www.cnn.com/2022/06/22/sport/tony-siragusa-death-baltimore-ravens-nfl-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220622184104-tony-siragusa-death-baltimore-ravens-nfl-spt-intl-super-tease.jpg",
+            "publishedAt": "2022-06-23T02:47:00Z",
+            "content": "(CNN)Tony Siragusa, a key part of the Baltimore Ravens' Super Bowl winning team in 2001, died unexpectedly Wednesday morning, according to a statement from the team. \r\nThe team announcement didn't li… [+3018 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Liz Clarke, Mark Maske, Paul Kane",
+            "title": "Subpoena for Daniel Snyder, scrutiny for Roger Goodell from House panel - The Washington Post",
+            "description": "The NFL commissioner did not relent when pressed to release the full findings of the league's investigation of the Commanders' workplace.",
+            "url": "https://www.washingtonpost.com/sports/2022/06/22/roger-goodell-house-oversight-committee/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-22-2022/t_f5848f643a654486ad9456394b07f988_name_20220622_House_NFL_Goodell.jpg&w=1440",
+            "publishedAt": "2022-06-23T02:43:00Z",
+            "content": "Placeholder while article actions load\r\nAn empty chair designated for Mr. Snyder faced members of the House Committee on Oversight and Reform at Wednesdays hearing on the Washington Commanders hostil… [+7988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Woj says expect A LOT of trades | 2022 NBA Draft Preview - ESPN",
+            "description": "Adrian Wojnarowski, Bobby Marks, Jay Bilas and Kendrick Perkins make bold predictions for the 2022 NBA Draft.✔️Subscribe to ESPN+ http://espnplus.com/youtube...",
+            "url": "https://www.youtube.com/watch?v=TTiCedIPBE4",
+            "urlToImage": "https://i.ytimg.com/vi/TTiCedIPBE4/maxresdefault.jpg",
+            "publishedAt": "2022-06-23T02:31:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tyler Pager, Jeff Stein, Tony Romm, Cleve R. Wootson Jr.",
+            "title": "Biden's latest economic message: a recession is not definite - The Washington Post",
+            "description": "Biden for weeks has been touting his efforts to fight inflation. Now he finds himself delivering an even trickier message — recession is not inevitable.",
+            "url": "https://www.washingtonpost.com/politics/2022/06/22/biden-recession-not-inevitable/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DEZ5ZQXSLMI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-06-23T02:13:42Z",
+            "content": "Placeholder while article actions load\r\nPresident Biden appealed to Congress on Wednesday to suspend the federal gas tax, saying it was critical to reduce the pain Americans are feeling at the pump. … [+10241 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Emily Heil",
+            "title": "Amid recall and illness claims, Daily Harvest meal service enlists FDA - The Washington Post",
+            "description": "Daily Harvest recalled its lentil-leek crumbles and says it's trying to identify the « root cause » of reports that the topping sickened customers.",
+            "url": "https://www.washingtonpost.com/food/2022/06/22/daily-harvest-fda-recall/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JRTRPJXSPMI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-06-23T01:23:00Z",
+            "content": "Placeholder while article actions load\r\nDaily Harvest, a service that offers home deliveries of vegan frozen food it claims is good for consumers and the environment, is grappling with allegations th… [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Kelly Gilmore",
+            "title": "Kendall Jenner and Devin Booker Break Up After 2 Years - E! NEWS",
+            "description": "Kendall Jenner and Devin Booker have called it quits after two years together, a source close to her told E! News. Learn more about why they broke up after Kourtney Kardashian’s wedding.",
+            "url": "https://www.eonline.com/news/1335471/kendall-jenner-and-devin-booker-break-up-after-2-years",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022522/rs_1200x1200-220622153021-1200-Kendall-Devin-IG.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+            "publishedAt": "2022-06-23T00:53:17Z",
+            "content": "Kendall Jennerand Devin Booker are calling a timeout on their love story.\r\nThe Kardashians star and Phoenix Suns shooting guard have broken up after two years together, a source close to Kendall tell… [+680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emily Anthes",
+            "title": "An Outbreak of Meningococcal Disease in Florida Is Growing, the C.D.C. Says - The New York Times",
+            "description": "So far, 26 cases, including seven deaths, have been identified, primarily in men who have sex with men.",
+            "url": "https://www.nytimes.com/2022/06/22/health/meningococcal-outbreak-florida.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/science/22meningitis-Neisseria-meningitidis/22meningitis-Neisseria-meningitidis-facebookJumbo.jpg",
+            "publishedAt": "2022-06-23T00:27:33Z",
+            "content": "An outbreak of meningococcal disease in Florida has caused at least 26 cases of the serious illness, an official from the Centers for Disease Control and Prevention said on Wednesday. Seven of the ca… [+854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Cox",
+            "title": "Justin Timberlake trolls himself over viral dancing video - Page Six",
+            "description": "“I’m going to make this up to you. I’m going to focus on these two guys right here, and get them right,” Timberlake said pointing down at his feet.",
+            "url": "https://pagesix.com/2022/06/22/justin-timberlake-trolls-himself-over-viral-dancing-video/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/06/justin-timberlake-dance-moves1-.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-06-22T23:20:00Z",
+            "content": "Justin Timberlake wishes he could “Take Back the Night” he attempted to do the Beat Ya Feet dance in Washington, D.C. \r\nThe singer took to Instagram on Wednesday to jokingly apologize to his fans for… [+1485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Richard Elliot",
+            "title": "Trump defends 67-minute call to GA Secretary of State following 2020 election - Yahoo News",
+            "description": "In a social media post, Trump called it “a perfect phone call to discuss a rigged and stolen election.”",
+            "url": "https://news.yahoo.com/trump-defends-67-minute-call-214757309.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/NOHgYWSboju6THgil2MGgw--~B/aD0xNjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsb_cox_articles_232/023009e892652d0c7602136814ca6225",
+            "publishedAt": "2022-06-22T23:15:34Z",
+            "content": "Former President Donald Trump is defending a controversial 67-minute phone call he made with Georgias secretary of state.\r\nIn it, Trump asked Brad Raffensperger to find nearly 12,000 votes following … [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Sydney Odman",
+            "title": "How ‘Obi-Wan Kenobi’ Deepens the Tragedy of Anakin Skywalker - Hollywood Reporter",
+            "description": "Logo text [This story contains spoilers for the series finale of Obi-Wan Kenobi.]  The emotional stakes of Obi-Wan Kenobi were enormous — even if much of the outcome was already known. Throughout the Disney+ Star Wars miniseries, it isn’t the threat of life o…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/obi-wan-kenobi-deepens-star-wars-tragedy-anakin-skywalker-1235170359/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/jtf-ff-002507_0bfed42dxx-H-2022.jpg?w=1024",
+            "publishedAt": "2022-06-22T23:02:15Z",
+            "content": "[This story contains spoilers for the series finale of Obi-Wan Kenobi.] \r\nThe emotional stakes of Obi-Wan Kenobi were enormous — even if much of the outcome was already known.\r\nThroughout the Disney+… [+5522 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. hopes for positive Sweden, Finland NATO bid resolution - Reuters",
+            "description": "The United States is hopeful that there will soon be a positive resolution of the issues between Turkey, Finland and Sweden regarding the NATO accession bids of the two Nordic countries, the State Department's top diplomat for Europe said on Wednesday.",
+            "url": "https://www.reuters.com/world/europe/us-says-its-hopeful-positive-resolution-soon-sweden-finlands-nato-bid-2022-06-22/",
+            "urlToImage": "https://www.reuters.com/resizer/XuHVx0MFOU4vLHDya2n7vr-Ui8o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TX2YHX7WTVM6BODQPNMEW4F32M.jpg",
+            "publishedAt": "2022-06-22T22:47:00Z",
+            "content": "WASHINGTON, June 22 (Reuters) - The United States is hopeful that there will soon be a positive resolution of the issues between Turkey, Finland and Sweden regarding the NATO accession bids of the tw… [+2783 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Brave's search engine lets you customize your results - The Verge",
+            "description": "Brave Search has launched the beta of a new feature it calls Goggles. It’s supposed to give users a way to create and apply their own filters that remix Brave Search’s own ranking system.",
+            "url": "https://www.theverge.com/2022/6/22/23179067/brave-search-engine-apply-custom-rankings-filters-goggles",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6b6wiouK_sAj1MjyphMh6iB7seU=/98x239:1813x1137/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23645364/search_engine_query_goggles__1_.jpg",
+            "publishedAt": "2022-06-22T22:35:24Z",
+            "content": "Braves Goggles let you focus on or filter out certain topics or sources\r\nImage: Brave\r\nBrave Search has launched a new feature that gives you a way to create or apply custom filters that change the w… [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Contorno, CNN",
+            "title": "Former Florida gubernatorial candidate Andrew Gillum indicted on wire fraud charges - CNN",
+            "description": "Andrew Gillum, a once-rising Democratic star who nearly won a 2018 race for Florida governor, was indicted on Wednesday along with a close political ally on charges of conspiracy, wire fraud and making false statements.",
+            "url": "https://www.cnn.com/2022/06/22/politics/andrew-gillum-fraud-charges/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220622120755-andrew-gillum-2018-file-super-tease.jpg",
+            "publishedAt": "2022-06-22T22:32:00Z",
+            "content": "(CNN)Andrew Gillum, a once-rising Democratic star who nearly won a 2018 race for Florida governor, was indicted on Wednesday along with a close political ally on charges of conspiracy, wire fraud and… [+7347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Alan Feuer, Maggie Haberman",
+            "title": "In Trump Electors Investigation, Justice Dept. Issues More Subpoenas - The New York Times",
+            "description": "Federal prosecutors sought information from two men who had worked on behalf of the Trump campaign and a third who signed up as a Trump elector in Georgia, a state won by President Biden.",
+            "url": "https://www.nytimes.com/2022/06/22/us/politics/justice-dept-jan-6-subpoenas.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/22/multimedia/22dc-investigate-ballots/22dc-investigate-ballots-facebookJumbo.jpg",
+            "publishedAt": "2022-06-22T22:31:10Z",
+            "content": "The first subpoenas in the fake elector inquiry were largely sent to people in key swing states who almost took part in the plan but eventually did not for various reasons. This new round of subpoena… [+1565 chars]"
+        }
+    ]
+}
